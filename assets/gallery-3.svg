@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600" role="img" aria-label="Gallery placeholder three">
+  <defs><linearGradient id="c" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#124f5b"/><stop offset="100%" stop-color="#2a939f"/></linearGradient></defs>
+  <rect width="900" height="600" fill="url(#c)"/>
+  <path d="M0 470 L260 330 L520 430 L900 250 L900 600 L0 600 Z" fill="#0a2831" opacity="0.45"/>
+  <text x="450" y="320" fill="#e5feff" font-size="60" text-anchor="middle" font-family="Arial">Gallery Placeholder 03</text>
+</svg>

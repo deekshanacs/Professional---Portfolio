@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Certificate placeholder two">
+  <defs>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#5d1330"/>
+      <stop offset="100%" stop-color="#9a2b52"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g2)"/>
+  <circle cx="160" cy="120" r="50" fill="#ffdbb0" opacity="0.5"/>
+  <circle cx="1040" cy="680" r="70" fill="#ffc2d6" opacity="0.5"/>
+  <rect x="70" y="70" width="1060" height="660" fill="none" stroke="#ffe9f0" stroke-width="8"/>
+  <text x="600" y="280" fill="#ffe9f0" font-size="72" text-anchor="middle" font-family="Arial">Certificate Slot 02</text>
+  <text x="600" y="370" fill="#ffd7e4" font-size="38" text-anchor="middle" font-family="Arial">Replace with your uploaded file</text>
+</svg>
